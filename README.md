@@ -1,2 +1,5 @@
 # hello-world
-First repo
+
+On the way of success...
+I may not be the best ... But I am trying to be best...
+
