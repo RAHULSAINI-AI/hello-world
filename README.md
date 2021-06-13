@@ -1,5 +1,13 @@
 # hello-world
 
+My name is Rahul Saini
+I am persuing my B.Tech from DPGITM,Gurugram in CSE.
+I'm always interested in learning new things specially the new technology
+Well I'm quite interested in programming and web development...
+
+& Now I'm going to start a new chapter of learning...
+
 On the way of success...
 I may not be the best ... But I am trying to be best...
 
+💻🖱️
